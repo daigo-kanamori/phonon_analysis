@@ -1,4 +1,4 @@
-NOTE: The README is unfinished and developing is continueing.
+NOTE: The README is unfinished and developing is continueing. 
 # What is MLD?
 MLD code can calculate Molecular Dyanamics and Lattice Dynamics simulation with QUANTUM ESPRESSO results. 
 I have created this code to calculate characteristcs of harmonic force propeties. The features of this is listed below:
@@ -14,3 +14,6 @@ Also If you want to simulate MD simulateion, you can try lammps(https://www.lamm
 - more user Friendly.LAMMPS code is highly developed , but complicated. The code will be develop and easy to understand the concept.
 - rewrite Rust code to make faster and safty
 - combine PINN potential
+
+# Licence
+MIT Licence
